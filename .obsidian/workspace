@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "5ac96d33ec30a992",
+    "type": "split",
+    "children": [
+      {
+        "id": "d93d28b62d785694",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Maths/Algebraic Identities.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77d7c8cd848e8677",
+    "type": "split",
+    "children": [
+      {
+        "id": "8199d41f5bf3d4f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2d6d3eaa77be490",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3683ead9a7902a52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3111c51f1851c1aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd95f88a6b8d37d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acdd17e38b59e136",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Maths/Algebraic Identities.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d93d28b62d785694",
+  "lastOpenFiles": [
+    "Maths/Algebraic Identities.md",
+    "ThermoMekanicalGreg Progression Map.md"
+  ]
+}
