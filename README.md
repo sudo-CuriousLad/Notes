@@ -4,4 +4,4 @@ This is a repo containing all my notes for the subjects I study.
 
 ## **Index**
 - [Algebraic Identities](https://github.com/sudo-CuriousLad/Notes/blob/main/Maths/Algebraic%20Identities.md)
-- 
+- [[Algebraic Identities]]: **Obsidian Link**
