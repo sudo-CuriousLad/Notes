@@ -1,4 +1,5 @@
 {
   "legacyEditor": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "promptDelete": false
 }
