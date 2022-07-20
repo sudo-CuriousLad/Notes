@@ -42,3 +42,10 @@ The absolute value of a real number is:
 $$|x| = \left\{ {\begin{align} x \ \ if\ \ x\ \geq 0 \\ -x\ if\ x\ < 0\end{align}}\right\}$$
 #### For example:
 $$\begin{aligned} |-1| = -(-&1) = 1 \\ \\  |4| = 4\end{aligned}$$
+## **Surds**
+For any rational number a, which cannot be represented as $\sqrt[n]{a}$, then the irrational number $\sqrt[n]{a}$ or $a^{1 \over n}$ $\to$ **surds**.
+
+Eg $\to$ $\sqrt{7}, \sqrt{8}, \sqrt[4]{27}, \sqrt[9]{2}$
+
+#### Properties
+* $(\sqrt[])
