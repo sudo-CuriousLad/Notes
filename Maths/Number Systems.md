@@ -62,3 +62,24 @@ $$\begin{aligned}
 = 4&\sqrt{3} \\\\
 {4\sqrt{3} \times{\sqrt{3}}} = 12\end{aligned}$$
 Hence, $\sqrt{3}$ is the simplest rationalizing factor.
+
+## **Indices**
+In a number $b^m$, $b$ is the base and $m$ is the power / exponent.
+
+#### Properties of indices
+$$\begin{align}
+b^m \times b^n = b^{m+n} \\\\
+\frac{b^m}{b^n} = b^{m-n}\\\\
+(a^m)^n = a^{mn} \\\\
+(ab)^m = a^m \times b^m \\\\
+\frac{a^n}{b^n} = {\left( \frac{a}{b}\right)}^n \\\\
+{\left(\frac{a}{b}\right)}^{-n} = {\left(\frac{b}{a}\right)}^n 
+\end{align}$$
+* If $a \neq 0$, $a^{-n} = \frac{1}{a^m}$
+* $a^{\frac{1}{m}} = \sqrt[m]{a}$
+
+#### Types of Surds
+* **Monomial surds**: They contain one term. For example: $\sqrt[3]{5}, \sqrt{2}, \sqrt[4]{7}, \sqrt[]{8}$ etc.
+* **Binomial surds**: They have two terms. For example: ${\sqrt[]{6} + \sqrt[4]{3}}, \ {\sqrt[]{2} - \sqrt[]{7}}$ etc.
+* **Trinomial Surds**: They have three terms. For example: ${\sqrt[]{2} + \sqrt[]{3} - \sqrt[]{5}}$ etc.
+* **Conjugate Surds**: Two binomial surds differing only in signs between them. ${\sqrt[]{3} + \sqrt[]{5}, \sqrt[]{3} - \sqrt[]{5}}; {\sqrt[]{2} + \sqrt[]{7}, \sqrt[]{2} - \sqrt[]{7}}$ etc.
