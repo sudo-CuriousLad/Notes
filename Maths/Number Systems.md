@@ -28,11 +28,11 @@ Between two rational numbers, an infinite number of rational numbers exist.
 ```
 ## **Real Numbers**
 * If $x$ and $y$ are two real numbers, then: \n
-$${\begin{align}
-n > y \\
+$${
+n > y \\\
 n < y \\
 n = y \\
-Only\ one\ of\ th&ese\ is\ possible\end{align}}$$
+Only\ one\ of\ these\ is\ possible }$$
 #### Absolute value
 The absolute value of a real number is:
 $$|x| = \left\{ {\begin{align} x \ \ if\ \ x\ \geq 0 \\ -x\ if\ x\ < 0\end{align}}\right\}$$
