@@ -27,7 +27,7 @@ title: Note!
 Between two rational numbers, an infinite number of rational numbers exist.
 ```
 ## **Real Numbers**
-* If $x$ and $y$ are two real numbers, then:
+* If $x$ and $y$ are two real numbers, then: \n
 $$\begin{align}
 n > y \\
 n < y \\
