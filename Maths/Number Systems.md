@@ -39,7 +39,7 @@ Between two rational numbers, an infinite number of rational numbers exist.
 ```
 #### Absolute value
 The absolute value of a real number is:
-$$|x| = \left\{ {\begin{align} x \ \ if\ \ x\ \geq 0 \\ -x\ if\ x\ < 0\end{align}}\right\}$$
+$$|x| = \left \{ {\begin{align} x \ \ if\ \ x\ \geq 0 \\ -x\ if\ x\ < 0\end{align}}\right\}$$
 #### For example:
 $$\begin{aligned} |-1| = -(-&1) = 1 \\ \\  |4| = 4\end{aligned}$$
 ## **Surds**
