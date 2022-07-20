@@ -53,10 +53,7 @@ When we get a rational number by multiplying two surds, the surds are known as r
 
 ##### Example $\to$
 **Find the simplest rationalizing factor of $\sqrt{48}$**
-$$\begin{aligned}
-\sqrt{48} = \sqrt{16} \times{3}
-= 4&\sqrt{3} \\\\
-{4\sqrt{3} \times{\sqrt{3}}} = 12\end{aligned}$$
+$$\begin{aligned} \sqrt{48} = \sqrt{16} \times{3} = 4&\sqrt{3} \\\\ {4\sqrt{3} \times{\sqrt{3}}} 12\end{aligned}$$
 Hence, $\sqrt{3}$ is the simplest rationalizing factor.
 
 ## **Indices**
