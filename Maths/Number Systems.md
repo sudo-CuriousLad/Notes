@@ -28,18 +28,14 @@ Between two rational numbers, an infinite number of rational numbers exist.
 ```
 ## **Real Numbers**
 * If $x$ and $y$ are two real numbers, then:
-```math
-%34o$$%34c
-||{"id":715879475076}||
-
-(i)\ n > y
-(ii)\ n < y
-(iii)\ n = y
-%34o$$%34c
-```
+$$\begin{aligned}
+n > y \\
+n < y \\
+n = y \\
+Only\ one\ of\ thes&e\ is\ possible\end{aligned}$$
 #### Absolute value
 The absolute value of a real number is:
-$$|x| = \left \{ {\begin{align} x \ \ if\ \ x\ \geq 0 \\ -x\ if\ x\ < 0\end{align}}\right\}$$
+$$|x| = \left\{ {\begin{align} x \ \ if\ \ x\ \geq 0 \\ -x\ if\ x\ < 0\end{align}}\right\}$$
 #### For example:
 $$\begin{aligned} |-1| = -(-&1) = 1 \\ \\  |4| = 4\end{aligned}$$
 ## **Surds**
