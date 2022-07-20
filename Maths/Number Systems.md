@@ -32,7 +32,7 @@ $$\begin{align}
 n > y \\
 n < y \\
 n = y \\
-Only\ one\ of\ thes&e\ is\ possible\end{align}$$
+Only\ one\ of\ these\ is\ possible\end{align}$$
 #### Absolute value
 The absolute value of a real number is:
 $$|x| = \left\{ {\begin{align} x \ \ if\ \ x\ \geq 0 \\ -x\ if\ x\ < 0\end{align}}\right\}$$
