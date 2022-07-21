@@ -76,3 +76,20 @@ b^m \times b^n = b^{m+n} \\\\
 * **Binomial surds**: They have two terms. For example: ${\sqrt[]{6} + \sqrt[4]{3}}, \ {\sqrt[]{2} - \sqrt[]{7}}$ etc.
 * **Trinomial Surds**: They have three terms. For example: ${\sqrt[]{2} + \sqrt[]{3} - \sqrt[]{5}}$ etc.
 * **Conjugate Surds**: Two binomial surds differing only in signs between them. ${\sqrt[]{3} + \sqrt[]{5}, \sqrt[]{3} - \sqrt[]{5}}; {\sqrt[]{2} + \sqrt[]{7}, \sqrt[]{2} - \sqrt[]{7}}$ etc.
+
+<br><hr><br>
+# Binomial Expansion
+* If $ax^2 + bx + c = 0$, where $a, b, c$ are constants, then:
+$$x = {-b\ \pm \sqrt{b^2 - 4ac} \over 2a}$$
+* If $N = x^a \times y^b$, then no. of factors of $N = (a+1) \cdot (b+1)$
+
+# Divisibilty tests for 13, 17 and 19
+## 13
+Multiply the last digit with four and add the remaining number to it. Check where it is divisible by 13 or not
+
+
+## 17
+Multiply the last digit with five and subtract it from the remaining number. Check whether it's divisible by 17 or not.
+
+## 19
+Double the last digit and add it to the remaining number. Check whether it's divisible by 19 or not.
