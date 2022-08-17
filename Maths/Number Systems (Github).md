@@ -78,7 +78,7 @@ b^m \times b^n = b^{m+n} \\\\
 * **Conjugate Surds**: Two binomial surds differing only in signs between them. ${\sqrt[]{3} + \sqrt[]{5}, \sqrt[]{3} - \sqrt[]{5}}; {\sqrt[]{2} + \sqrt[]{7}, \sqrt[]{2} - \sqrt[]{7}}$ etc.
 
 <br><hr><br>
-# Binomial Expansion
+# Solving Quadratic
 * If $ax^2 + bx + c = 0$, where $a, b, c$ are constants, then:
 $$x = {-b\ \pm \sqrt{b^2 - 4ac} \over 2a}$$
 * If $N = x^a \times y^b$, then no. of factors of $N = (a+1) \cdot (b+1)$
@@ -93,3 +93,7 @@ Multiply the last digit with five and subtract it from the remaining number. Che
 
 ## 19
 Double the last digit and add it to the remaining number. Check whether it's divisible by 19 or not.
+
+# Binomial Expansion
+
+$a^n + {n \over 1!} \times {a^{n-1} \times b^1} + {n(n-1) \over 2!} \times a^{n-2} \times b^2 + \dots + b^n$
